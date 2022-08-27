@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ContactEdit {
+	
 	private String firstName;
     private String lastName;
     private String address;

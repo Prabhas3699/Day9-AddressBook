@@ -1,6 +1,7 @@
 public class AddressBookEdit {
 	public static void main(String[] args) {
 		
+		
 		ContactEdit AddressBook = new ContactEdit();	
 		/*
 		 * Calling createContact method
